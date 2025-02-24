@@ -6,3 +6,4 @@ The files included are scripts from my project files and it involves the necessa
 
 # Latest Game Project image/s
 ![image](https://github.com/user-attachments/assets/8de2fc36-9c13-4fa8-9b2d-d7997d0e23d8)
+Dynamic character creation where the UI will spawn once the game starts, scripted using Objected Oriented Programming C# in Unity.
