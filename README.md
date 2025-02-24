@@ -4,5 +4,5 @@
 The files included are scripts from my project files and it involves the necessary scripts in order to run a Unity game.
 
 
-# Latest Game Project/s
+# Latest Game Project image/s
 ![image](https://github.com/user-attachments/assets/8de2fc36-9c13-4fa8-9b2d-d7997d0e23d8)
